@@ -3,7 +3,7 @@
 	"version": "0.1.0",
 	"title": "Matt's Logistics",
 	"author": "CG-Matt",
-	"homepage": "https://github.com/CG-Matt/matts-logistics",
+	"homepage": "https://mods.factorio.com/mod/matts-logistics",
 	"description": "A mod which adds new transport belts, underground pipes and substations.\nAll categories are individually toggleable via mod settings.\nThe transport belts were inspired by 'Ultimate Belts_Owoshima_And_Pankeko-Mod'.\nThe longer underground pipes were inspired by 'DistancePlus'.\nThe larger supply area substations were inspired by 'Advanced Substation'.",
 	"factorio_version": "2.0",
 	"dependencies":
