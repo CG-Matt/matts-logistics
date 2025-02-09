@@ -1,3 +1,8 @@
+Version: 0.1.1
+Date: 09.02.2025
+  Bugfixes:
+    - Fixed wire distance and supply area for substation mk3
+---------------------------------------------------------------------------------------------------
 Version: 0.1.0
 Date: 02.02.2025
   General:
