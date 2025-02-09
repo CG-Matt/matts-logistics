@@ -18,5 +18,7 @@ ss3.icon = icon_path .. "substation-3.png"
 ss3.minable.result = "substation-3"
 ss3.max_health = ss3.max_health * 2
 ss3.pictures.layers[1].filename = sprite_path .. "substation-3.png"
+ss3.maximum_wire_distance = 50
+ss3.supply_area_distance = 25
 
 data:extend({ ss2, ss3 })
