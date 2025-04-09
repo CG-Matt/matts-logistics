@@ -116,6 +116,15 @@ local function splitter(tier, max_health, speed, next_tier)
 end
 
 -- Patch next upgrade for vanilla belts
+if mods["space-age"] then
+    data.raw["transport-belt"]["turbo-transport-belt"].next_upgrade = "ultra-fast-transport-belt"
+    data.raw["underground-belt"]["turbo-underground-belt"].next_upgrade = "ultra-fast-underground-belt"
+    data.raw["splitter"]["turbo-splitter"].next_upgrade = "ultra-fast-splitter"
+else
+    data.raw["transport-belt"]["express-transport-belt"].next_upgrade = "ultra-fast-transport-belt"
+    data.raw["underground-belt"]["express-underground-belt"].next_upgrade = "ultra-fast-underground-belt"
+    data.raw["splitter"]["express-splitter"].next_upgrade = "ultra-fast-splitter"
+end
 
 data:extend(
 {
