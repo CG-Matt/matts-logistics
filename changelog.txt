@@ -1,3 +1,8 @@
+Version: 0.1.2
+Date: 09.04.2025
+  Bugfixes:
+    - Fixed not being able to upgrade vanilla belts to the new tiers
+---------------------------------------------------------------------------------------------------
 Version: 0.1.1
 Date: 09.02.2025
   Bugfixes:
