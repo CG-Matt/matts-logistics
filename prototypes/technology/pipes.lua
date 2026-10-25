@@ -5,7 +5,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "pipe-upgrade-1",
-		icon_size = 64, icon_mipmaps = 4,
+		icon_size = 64,
 		icon = graphics_path .. "icons/medium-pipe-to-ground.png",
 		effects =
 		{
@@ -30,7 +30,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "pipe-upgrade-2",
-		icon_size = 64, icon_mipmaps = 4,
+		icon_size = 64,
 		icon = graphics_path .. "icons/long-pipe-to-ground.png",
 		effects =
 		{
@@ -55,7 +55,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "pipe-upgrade-3",
-		icon_size = 64, icon_mipmaps = 4,
+		icon_size = 64,
 		icon = graphics_path .. "icons/ultra-pipe-to-ground.png",
 		effects =
 		{
@@ -81,7 +81,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "pipe-upgrade-4",
-		icon_size = 64, icon_mipmaps = 4,
+		icon_size = 64,
 		icon = graphics_path .. "icons/continental-pipe-to-ground.png",
 		effects =
 		{

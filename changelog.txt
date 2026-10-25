@@ -1,3 +1,10 @@
+Version: 0.2.0
+Date: 25.10.2026
+  Compatibility:
+    - Updated to Factorio version 2.1
+    - Updated minimum required Matt's Library version to 0.7.0.
+    - Temporarily disabled Deadlock's Stacking Beltboxes & Compact Loaders integration pending a Factorio 2.1 update and compatibility testing.
+---------------------------------------------------------------------------------------------------
 Version: 0.1.2
 Date: 09.04.2025
   Bugfixes:

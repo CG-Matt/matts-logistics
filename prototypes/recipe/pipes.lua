@@ -14,7 +14,7 @@ data:extend(
     },
     {
         type = "recipe",
-        category = "advanced-crafting",
+        categories = { "advanced-crafting" },
         name = "matts-long-pipe-to-ground",
         enabled = false,
         energy_required = 30,
@@ -28,7 +28,7 @@ data:extend(
     },
     {
         type = "recipe",
-        category = "advanced-crafting",
+        categories = { "advanced-crafting" },
         name = "matts-ultra-pipe-to-ground",
         enabled = false,
         energy_required = 60,
@@ -43,7 +43,7 @@ data:extend(
     },
     {
         type = "recipe",
-        category = "crafting-with-fluid",
+        categories = { "crafting-with-fluid" },
         name = "matts-continental-pipe-to-ground",
         enabled = false,
         energy_required = 120,

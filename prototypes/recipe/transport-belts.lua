@@ -3,7 +3,7 @@ data:extend(
     {
         type = "recipe",
         name = "ultra-fast-transport-belt",
-        category = "crafting-with-fluid",
+        categories = { "crafting-with-fluid" },
         enabled = false,
         ingredients =
         {
@@ -16,7 +16,7 @@ data:extend(
     {
         type = "recipe",
         name = "extreme-fast-transport-belt",
-        category = "crafting-with-fluid",
+        categories = { "crafting-with-fluid" },
         enabled = false,
         ingredients =
         {
@@ -30,7 +30,7 @@ data:extend(
     {
         type = "recipe",
         name = "ultra-express-transport-belt",
-        category = "crafting-with-fluid",
+        categories = { "crafting-with-fluid" },
         enabled = false,
         ingredients =
         {
@@ -45,7 +45,7 @@ data:extend(
     {
         type = "recipe",
         name = "extreme-express-transport-belt",
-        category = "crafting-with-fluid",
+        categories = { "crafting-with-fluid" },
         enabled = false,
         ingredients =
         {
@@ -60,7 +60,7 @@ data:extend(
     {
         type = "recipe",
         name = "ultimate-transport-belt",
-        category = "crafting-with-fluid",
+        categories = { "crafting-with-fluid" },
         enabled = false,
         ingredients =
         {
@@ -76,7 +76,7 @@ data:extend(
     {
         type = "recipe",
         name = "ultra-fast-underground-belt",
-        category = "crafting-with-fluid",
+        categories = { "crafting-with-fluid" },
         enabled = false,
         ingredients =
         {
@@ -89,7 +89,7 @@ data:extend(
     {
         type = "recipe",
         name = "extreme-fast-underground-belt",
-        category = "crafting-with-fluid",
+        categories = { "crafting-with-fluid" },
         enabled = false,
         ingredients =
         {
@@ -103,7 +103,7 @@ data:extend(
     {
         type = "recipe",
         name = "ultra-express-underground-belt",
-        category = "crafting-with-fluid",
+        categories = { "crafting-with-fluid" },
         enabled = false,
         ingredients =
         {
@@ -118,7 +118,7 @@ data:extend(
     {
         type = "recipe",
         name = "extreme-express-underground-belt",
-        category = "crafting-with-fluid",
+        categories = { "crafting-with-fluid" },
         enabled = false,
         ingredients =
         {
@@ -133,7 +133,7 @@ data:extend(
     {
         type = "recipe",
         name = "ultimate-underground-belt",
-        category = "crafting-with-fluid",
+        categories = { "crafting-with-fluid" },
         enabled = false,
         ingredients =
         {
@@ -149,7 +149,7 @@ data:extend(
     {
         type = "recipe",
         name = "ultra-fast-splitter",
-        category = "crafting-with-fluid",
+        categories = { "crafting-with-fluid" },
         energy_required = 2,
         enabled = false,
         ingredients =
@@ -164,7 +164,7 @@ data:extend(
     {
         type = "recipe",
         name = "extreme-fast-splitter",
-        category = "crafting-with-fluid",
+        categories = { "crafting-with-fluid" },
         energy_required = 2,
         enabled = false,
         ingredients =
@@ -180,7 +180,7 @@ data:extend(
     {
         type = "recipe",
         name = "ultra-express-splitter",
-        category = "crafting-with-fluid",
+        categories = { "crafting-with-fluid" },
         energy_required = 2,
         enabled = false,
         ingredients =
@@ -197,7 +197,7 @@ data:extend(
     {
         type = "recipe",
         name = "extreme-express-splitter",
-        category = "crafting-with-fluid",
+        categories = { "crafting-with-fluid" },
         energy_required = 2,
         enabled = false,
         ingredients =
@@ -205,7 +205,7 @@ data:extend(
             { type = "item", name = "ultra-express-splitter", amount = 1 },
             { type = "item", name = "iron-gear-wheel", amount = 50 },
             { type = "item", name = "low-density-structure", amount = 20 },
-            { type = "item", name = "processing-unit", amount = 30, alternative = "advanced-processing-unit" },
+            { type = "item", name = "processing-unit", amount = 30 },
             { type = "item", name = "speed-module-2", amount = 1 },
             { type = "fluid", name = "lubricant", amount = 100 }
         },
@@ -214,7 +214,7 @@ data:extend(
     {
         type = "recipe",
         name = "ultimate-splitter",
-        category = "crafting-with-fluid",
+        categories = { "crafting-with-fluid" },
         energy_required = 2,
         enabled = false,
         ingredients =
